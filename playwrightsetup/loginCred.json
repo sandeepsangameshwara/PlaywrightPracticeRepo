@@ -1,0 +1,88 @@
+{
+  "cookies": [
+    {
+      "name": "NSA-JSESSIONID",
+      "value": "F71ACE9B23743A7BB289CF670DBF66DB",
+      "domain": "downloads.appzillon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://downloads.appzillon.com",
+      "localStorage": [
+        { "name": "DOWNLOADS_LATTITUDE", "value": "12.9255616" },
+        { "name": "DOWNLOADS_AUDITLOGREQUIRED", "value": "N" },
+        {
+          "name": "DOWNLOADS_ChangePassword_landscapelo",
+          "value": "ChangePassword"
+        },
+        { "name": "DOWNLOADS_SCREENPPI", "value": "160" },
+        { "name": "DOWNLOADS_SERVER.OFFLINEREFNO", "value": "" },
+        { "name": "DOWNLOADS_THOUSANDSEPARATOR", "value": "," },
+        { "name": "DOWNLOADS_DECIMALSEPARATOR", "value": "." },
+        { "name": "DOWNLOADS_TIMEFORMAT", "value": "" },
+        { "name": "DOWNLOADS_Uploads_portraitlo", "value": "All_Downloads" },
+        { "name": "DOWNLOADS_SERVER", "value": "" },
+        { "name": "DOWNLOADS_Downloads_portraitlo", "value": "All_Downloads" },
+        { "name": "DOWNLOADS_ENCRYPTIONKEY", "value": "" },
+        { "name": "DOWNLOADS_SERVER.ISOFFLINECALL", "value": "false" },
+        { "name": "DOWNLOADS_Uploads_landscapelo", "value": "All_Downloads" },
+        { "name": "DOWNLOADS_PLUGIN.OS", "value": "WEBCONTAINER" },
+        { "name": "DOWNLOADS_LoginPage_portraitlo", "value": "LoginPage" },
+        { "name": "DOWNLOADS_LANGUAGE", "value": "en" },
+        {
+          "name": "DOWNLOADS_SERVER.REQUESTKEY",
+          "value": "1.8967678756544442"
+        },
+        { "name": "DOWNLOADS_AUTHENTICATIONTYPE", "value": "#DeviceId" },
+        {
+          "name": "DOWNLOADS_DATETIMEFORMAT",
+          "value": "dd-MMM-yyyy  hh:mm:ss"
+        },
+        {
+          "name": "DOWNLOADS_SERVER.SESSIONID",
+          "value": "Ziojunb/\\/\\/\\/IujujUUU8768768768"
+        },
+        { "name": "DOWNLOADS_NUMBERMASK", "value": "MILLION" },
+        { "name": "DOWNLOADS_PLUGIN.DEVICETYPE", "value": "WEBCONTAINER" },
+        { "name": "DOWNLOADS_APPZILLONSENDLOG", "value": "N" },
+        { "name": "DOWNLOADS_DEFAULTAUTHORIZATION", "value": "Y" },
+        { "name": "DOWNLOADS_USERID", "value": "CITICRM" },
+        { "name": "DOWNLOADS_Downloads_landscapelo", "value": "All_Downloads" },
+        { "name": "DOWNLOADS_LOGIN", "value": "2023-08-29 10:56:52.205" },
+        { "name": "DOWNLOADS_TRACKLOCATION", "value": "undefined" },
+        { "name": "DOWNLOADS_ORIENTATION", "value": "ANY" },
+        {
+          "name": "DOWNLOADS_ChangePassword_portraitlo",
+          "value": "ChangePassword"
+        },
+        {
+          "name": "DOWNLOADS_USERSETTINGS",
+          "value": "{\"Settings\":{\"DATEFORMAT\":\"dd-MMM-yyyy\",\"NUMBERMASK\":\"MILLION\",\"LANGUAGE\":\"en\",\"NOOFLOGLINES\":100,\"THOUSANDSEPARATOR\":\",\",\"DATETIMEFORMAT\":\"dd-MMM-yyyy  hh:mm:ss\",\"LONGITUDE\":\"77.6196951\",\"THEME\":\"APZDOWNLOADS\",\"ENCRYPTIONKEY\":\"\",\"DECIMALSEPARATOR\":\".\",\"AUTHENTICATIONTYPE\":\"#DeviceId\",\"APPZILLONSENDLOG\":\"N\",\"DEFAULTAUTHORIZATION\":\"Y\",\"OTAREQUIRED\":\"N\",\"APPZILLONLOGGINGLEVEL\":\"DEBUG\",\"LATTITUDE\":\"12.9255616\",\"TIMEFORMAT\":\"\",\"AUDITLOGREQUIRED\":\"N\"}}"
+        },
+        { "name": "DOWNLOADS_NOOFLOGLINES", "value": "100" },
+        {
+          "name": "DOWNLOADS_FileDownloads_portraitlo",
+          "value": "All_Downloads"
+        },
+        { "name": "DOWNLOADS_APPZILLONLOGGINGLEVEL", "value": "DEBUG" },
+        { "name": "DOWNLOADS_OTAREQUIRED", "value": "N" },
+        { "name": "DOWNLOADS_DATEFORMAT", "value": "dd-MMM-yyyy" },
+        {
+          "name": "DOWNLOADS_FileDownloads_landscapelo",
+          "value": "All_Downloads"
+        },
+        { "name": "DOWNLOADS_SCREENSIZE", "value": "1280X720" },
+        { "name": "DOWNLOADS_MAINSCREEN", "value": "" },
+        { "name": "DOWNLOADS_LONGITUDE", "value": "77.6196951" },
+        { "name": "DOWNLOADS_THEME", "value": "APZDOWNLOADS" },
+        { "name": "DOWNLOADS_LoginPage_landscapelo", "value": "LoginPage" }
+      ]
+    }
+  ]
+}
